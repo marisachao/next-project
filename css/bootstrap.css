@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=f2a0d01d771d8bec3b0134276b5e9693)
- * Config saved to config.json and https://gist.github.com/f2a0d01d771d8bec3b0134276b5e9693
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=58ddc1aeacdca4618818af4a23200ea9)
+ * Config saved to config.json and https://gist.github.com/58ddc1aeacdca4618818af4a23200ea9
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -1092,7 +1092,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
-  background-color: #ffccb4;
+  background-color: #fffee6;
 }
 input,
 button,
@@ -1137,7 +1137,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #ffccb4;
+  background-color: #fffee6;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2299,7 +2299,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #ffccb4;
+  background-color: #fffee6;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -3238,26 +3238,26 @@ fieldset[disabled] .btn-success.focus {
 }
 .btn-info {
   color: #ffffff;
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #ffccb4;
+  border-color: #ffbb9b;
 }
 .btn-info:focus,
 .btn-info.focus {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #1b6d85;
+  background-color: #ffa981;
+  border-color: #ff641b;
 }
 .btn-info:hover {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #ffa981;
+  border-color: #ff915d;
 }
 .btn-info:active,
 .btn-info.active,
 .open > .dropdown-toggle.btn-info {
   color: #ffffff;
-  background-color: #31b0d5;
-  border-color: #269abc;
+  background-color: #ffa981;
+  border-color: #ff915d;
 }
 .btn-info:active:hover,
 .btn-info.active:hover,
@@ -3269,8 +3269,8 @@ fieldset[disabled] .btn-success.focus {
 .btn-info.active.focus,
 .open > .dropdown-toggle.btn-info.focus {
   color: #ffffff;
-  background-color: #269abc;
-  border-color: #1b6d85;
+  background-color: #ff915d;
+  border-color: #ff641b;
 }
 .btn-info:active,
 .btn-info.active,
@@ -3286,11 +3286,11 @@ fieldset[disabled] .btn-info:focus,
 .btn-info.disabled.focus,
 .btn-info[disabled].focus,
 fieldset[disabled] .btn-info.focus {
-  background-color: #5bc0de;
-  border-color: #46b8da;
+  background-color: #ffccb4;
+  border-color: #ffbb9b;
 }
 .btn-info .badge {
-  color: #5bc0de;
+  color: #ffccb4;
   background-color: #ffffff;
 }
 .btn-warning {
@@ -4044,7 +4044,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #777777;
-  background-color: #ffccb4;
+  background-color: #fffee6;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -4090,7 +4090,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #ffccb4;
+    border-bottom-color: #fffee6;
   }
 }
 .nav-pills > li {
@@ -4158,7 +4158,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #ffccb4;
+    border-bottom-color: #fffee6;
   }
 }
 .tab-content > .tab-pane {
@@ -4898,11 +4898,11 @@ a.label:focus {
   background-color: #6c9ebc;
 }
 .label-info {
-  background-color: #5bc0de;
+  background-color: #ffccb4;
 }
 .label-info[href]:hover,
 .label-info[href]:focus {
-  background-color: #31b0d5;
+  background-color: #ffa981;
 }
 .label-warning {
   background-color: #f0ad4e;
@@ -5012,7 +5012,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #ffccb4;
+  background-color: #fffee6;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
@@ -5179,7 +5179,7 @@ a.thumbnail.active {
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
 .progress-bar-info {
-  background-color: #5bc0de;
+  background-color: #ffccb4;
 }
 .progress-striped .progress-bar-info {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
