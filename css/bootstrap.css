@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c51b08241baad4232c44eb49bce66446)
- * Config saved to config.json and https://gist.github.com/c51b08241baad4232c44eb49bce66446
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=4fa09147cb3335e311b8bb94c015ef0d)
+ * Config saved to config.json and https://gist.github.com/4fa09147cb3335e311b8bb94c015ef0d
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -3042,7 +3042,7 @@ select[multiple].input-lg {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333333;
+  color: #6589b5;
   text-decoration: none;
 }
 .btn:active,
@@ -3066,25 +3066,25 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 .btn-default {
-  color: #333333;
+  color: #6589b5;
   background-color: #ffffff;
   border-color: #cccccc;
 }
 .btn-default:focus,
 .btn-default.focus {
-  color: #333333;
+  color: #6589b5;
   background-color: #e6e6e6;
   border-color: #8c8c8c;
 }
 .btn-default:hover {
-  color: #333333;
+  color: #6589b5;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #333333;
+  color: #6589b5;
   background-color: #e6e6e6;
   border-color: #adadad;
 }
@@ -3097,7 +3097,7 @@ fieldset[disabled] a.btn {
 .btn-default:active.focus,
 .btn-default.active.focus,
 .open > .dropdown-toggle.btn-default.focus {
-  color: #333333;
+  color: #6589b5;
   background-color: #d4d4d4;
   border-color: #8c8c8c;
 }
@@ -3120,7 +3120,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-default .badge {
   color: #ffffff;
-  background-color: #333333;
+  background-color: #6589b5;
 }
 .btn-primary {
   color: #ffffff;
@@ -3564,22 +3564,22 @@ tbody.collapse.in {
   clear: both;
   font-weight: normal;
   line-height: 1.42857143;
-  color: #333333;
+  color: #e1e1e1;
   white-space: nowrap;
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
   text-decoration: none;
-  color: #262626;
+  color: #d4d4d4;
   background-color: #f5f5f5;
 }
 .dropdown-menu > .active > a,
 .dropdown-menu > .active > a:hover,
 .dropdown-menu > .active > a:focus {
-  color: #ffffff;
+  color: #6589b5;
   text-decoration: none;
   outline: 0;
-  background-color: #871013;
+  background-color: #6589b5;
 }
 .dropdown-menu > .disabled > a,
 .dropdown-menu > .disabled > a:hover,
