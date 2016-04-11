@@ -25,10 +25,15 @@ div.table-responsive {
 div.thumbnail {
   padding-left: 30px;
   padding-right: 30px;
-  position: center;
+  position: relative;
+  left: 100px;
 }
 
 h3 {
   padding-left: 30px;
   padding-right: 30px;
+}
+
+a:visited {
+  color: #993C36;
 }
