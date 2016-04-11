@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=4fa09147cb3335e311b8bb94c015ef0d)
- * Config saved to config.json and https://gist.github.com/4fa09147cb3335e311b8bb94c015ef0d
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=0903be82393bf627fc15a548fac8a5cd)
+ * Config saved to config.json and https://gist.github.com/0903be82393bf627fc15a548fac8a5cd
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -4521,13 +4521,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333333;
+  color: #e1e1e1;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #555555;
+  color: #e1e1e1;
   background-color: #384c65;
 }
 .navbar-default .navbar-nav > .disabled > a,
@@ -4554,7 +4554,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   background-color: #384c65;
-  color: #555555;
+  color: #e1e1e1;
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -4562,13 +4562,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #333333;
+    color: #e1e1e1;
     background-color: transparent;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #555555;
+    color: #e1e1e1;
     background-color: #384c65;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
@@ -4582,14 +4582,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #e1e1e1;
 }
 .navbar-default .navbar-link:hover {
-  color: #333333;
+  color: #e1e1e1;
 }
 .navbar-default .btn-link {
   color: #e1e1e1;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #333333;
+  color: #e1e1e1;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
