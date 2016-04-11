@@ -17,16 +17,12 @@ p {
   padding-right: 30px;
 }
 
-table {
+div.table-responsive {
   padding-left: 30px;
   padding-right: 30px;
 }
 
-thumbnail {
+div.thumbnail {
   padding-left: 30px;
   padding-right: 30px;
-}
-
-navbar {
-  border-top: solid #0B6E50 5px;
 }
