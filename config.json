@@ -109,7 +109,7 @@
     "@dropdown-divider-bg": "#e5e5e5",
     "@dropdown-link-color": "#e1e1e1",
     "@dropdown-link-hover-color": "darken(@dropdown-link-color, 5%)",
-    "@dropdown-link-hover-bg": "#f5f5f5",
+    "@dropdown-link-hover-bg": "darken(@navbar-default-bg, 3%)",
     "@dropdown-link-active-color": "#6589B5",
     "@dropdown-link-active-bg": "#6589B5",
     "@dropdown-link-disabled-color": "@gray-light",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=2f2805ec8e1f02f7a047cf86b5e9a4ac"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=2a5c6dfac82566eb69430e7f9944bc9a"
 }
