@@ -1,11 +1,9 @@
 body {
   margin-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
-jumbotron {
-  padding-left: 15px;
-  padding-right: 15px;
-}
 
 navbar {
   border-top: solid #0B6E50 5px;
