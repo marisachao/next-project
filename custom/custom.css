@@ -6,3 +6,7 @@ jumbotron {
   padding-left: 15px;
   padding-right: 15px;
 }
+
+navbar {
+  border-top: solid #0B6E50 5px;
+}
