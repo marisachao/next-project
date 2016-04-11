@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=0903be82393bf627fc15a548fac8a5cd)
- * Config saved to config.json and https://gist.github.com/0903be82393bf627fc15a548fac8a5cd
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=0be1e6e1a026044eeb95d8f28314ae78)
+ * Config saved to config.json and https://gist.github.com/0be1e6e1a026044eeb95d8f28314ae78
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -4541,10 +4541,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #dddddd;
+  background-color: #e1e1e1;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #888888;
+  background-color: #e1e1e1;
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
@@ -4968,12 +4968,12 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: #aabad4;
+  color: ##e1e1e1;
   background-color: #0b6e50;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: #aabad4;
+  color: ##e1e1e1;
 }
 .jumbotron p {
   margin-bottom: 15px;
