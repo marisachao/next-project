@@ -27,6 +27,10 @@ div.thumbnail {
   padding-right: 30px;
 }
 
+div.dropdown {
+  padding-left: 30px;
+}
+
 h3 {
   padding-left: 30px;
   padding-right: 30px;
