@@ -25,6 +25,8 @@ div.table-responsive {
 div.thumbnail {
   padding-left: 30px;
   padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div.dropdown {
