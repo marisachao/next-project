@@ -63,7 +63,7 @@
     "@table-bg-active": "@table-bg-hover",
     "@table-border-color": "#ddd",
     "@btn-font-weight": "normal",
-    "@btn-default-color": "#fff",
+    "@btn-default-color": "#e1e1e1",
     "@btn-default-bg": "#6589B5",
     "@btn-default-border": "#ccc",
     "@btn-primary-color": "#fff",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=db7f3b46785a91774c59daf39f4ac186"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=62782046c2d852f7301561015f1c9a69"
 }

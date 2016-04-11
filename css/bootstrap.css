@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=db7f3b46785a91774c59daf39f4ac186)
- * Config saved to config.json and https://gist.github.com/db7f3b46785a91774c59daf39f4ac186
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=62782046c2d852f7301561015f1c9a69)
+ * Config saved to config.json and https://gist.github.com/62782046c2d852f7301561015f1c9a69
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -3042,7 +3042,7 @@ select[multiple].input-lg {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #ffffff;
+  color: #e1e1e1;
   text-decoration: none;
 }
 .btn:active,
@@ -3066,25 +3066,25 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 .btn-default {
-  color: #ffffff;
+  color: #e1e1e1;
   background-color: #6589b5;
   border-color: #cccccc;
 }
 .btn-default:focus,
 .btn-default.focus {
-  color: #ffffff;
+  color: #e1e1e1;
   background-color: #4b6f9c;
   border-color: #8c8c8c;
 }
 .btn-default:hover {
-  color: #ffffff;
+  color: #e1e1e1;
   background-color: #4b6f9c;
   border-color: #adadad;
 }
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #ffffff;
+  color: #e1e1e1;
   background-color: #4b6f9c;
   border-color: #adadad;
 }
@@ -3097,7 +3097,7 @@ fieldset[disabled] a.btn {
 .btn-default:active.focus,
 .btn-default.active.focus,
 .open > .dropdown-toggle.btn-default.focus {
-  color: #ffffff;
+  color: #e1e1e1;
   background-color: #3f5e84;
   border-color: #8c8c8c;
 }
@@ -3120,7 +3120,7 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-default .badge {
   color: #6589b5;
-  background-color: #ffffff;
+  background-color: #e1e1e1;
 }
 .btn-primary {
   color: #ffffff;
