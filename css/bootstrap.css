@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=2812b626d28ad0bdd25021c4aa6c6d0b)
- * Config saved to config.json and https://gist.github.com/2812b626d28ad0bdd25021c4aa6c6d0b
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=c51b08241baad4232c44eb49bce66446)
+ * Config saved to config.json and https://gist.github.com/c51b08241baad4232c44eb49bce66446
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -4506,18 +4506,18 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-color: #384c65;
 }
 .navbar-default .navbar-brand {
-  color: #777777;
+  color: #e1e1e1;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: #c8c8c8;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #777777;
+  color: #e1e1e1;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777777;
+  color: #e1e1e1;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -4558,7 +4558,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #777777;
+    color: #e1e1e1;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -4579,13 +4579,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default .navbar-link {
-  color: #777777;
+  color: #e1e1e1;
 }
 .navbar-default .navbar-link:hover {
   color: #333333;
 }
 .navbar-default .btn-link {
-  color: #777777;
+  color: #e1e1e1;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
@@ -4968,12 +4968,12 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: inherit;
+  color: #aabad4;
   background-color: #0b6e50;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  color: #aabad4;
 }
 .jumbotron p {
   margin-bottom: 15px;
