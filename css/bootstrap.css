@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=b29859923b7bea8d607c6bca804d96ab)
- * Config saved to config.json and https://gist.github.com/b29859923b7bea8d607c6bca804d96ab
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=2812b626d28ad0bdd25021c4aa6c6d0b)
+ * Config saved to config.json and https://gist.github.com/2812b626d28ad0bdd25021c4aa6c6d0b
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -1091,8 +1091,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #0b6e50;
-  background-color: #cdfff0;
+  color: #7b302b;
+  background-color: #aabad4;
 }
 input,
 button,
@@ -1137,7 +1137,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #cdfff0;
+  background-color: #aabad4;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2299,7 +2299,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #cdfff0;
+  background-color: #aabad4;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -2918,7 +2918,7 @@ select[multiple].input-lg {
   display: block;
   margin-top: 5px;
   margin-bottom: 10px;
-  color: #17e2a4;
+  color: #c7655f;
 }
 @media (min-width: 768px) {
   .form-inline .form-group {
@@ -3539,7 +3539,7 @@ tbody.collapse.in {
   list-style: none;
   font-size: 14px;
   text-align: left;
-  background-color: #ffc4b4;
+  background-color: #445c7a;
   border: 1px solid #cccccc;
   border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 4px;
@@ -4044,7 +4044,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #555555;
-  background-color: #cdfff0;
+  background-color: #aabad4;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -4090,7 +4090,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #cdfff0;
+    border-bottom-color: #aabad4;
   }
 }
 .nav-pills > li {
@@ -4158,7 +4158,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #cdfff0;
+    border-bottom-color: #aabad4;
   }
 }
 .tab-content > .tab-pane {
@@ -4502,8 +4502,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #ffc4b4;
-  border-color: #ffaa93;
+  background-color: #445c7a;
+  border-color: #384c65;
 }
 .navbar-default .navbar-brand {
   color: #777777;
@@ -4528,7 +4528,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #555555;
-  background-color: #ffaa93;
+  background-color: #384c65;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4548,12 +4548,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #ffaa93;
+  border-color: #384c65;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #ffaa93;
+  background-color: #384c65;
   color: #555555;
 }
 @media (max-width: 767px) {
@@ -4569,7 +4569,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #555555;
-    background-color: #ffaa93;
+    background-color: #384c65;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
@@ -4969,7 +4969,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #b4ffe8;
+  background-color: #0b6e50;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -4981,7 +4981,7 @@ a.badge:focus {
   font-weight: 200;
 }
 .jumbotron > hr {
-  border-top-color: #81ffd8;
+  border-top-color: #06402e;
 }
 .container .jumbotron,
 .container-fluid .jumbotron {
@@ -5012,7 +5012,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #cdfff0;
+  background-color: #aabad4;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
@@ -5031,7 +5031,7 @@ a.thumbnail.active {
 }
 .thumbnail .caption {
   padding: 9px;
-  color: #0b6e50;
+  color: #7b302b;
 }
 .alert {
   padding: 15px;

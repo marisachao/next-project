@@ -11,8 +11,8 @@
     "@brand-info": "#ffccb4",
     "@brand-warning": "#f0ad4e",
     "@brand-danger": "#d9534f",
-    "@body-bg": "#CDFFF0",
-    "@text-color": "#0B6E50",
+    "@body-bg": "#AABAD4",
+    "@text-color": "#7B302B",
     "@link-color": "@brand-primary",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "underline",
@@ -103,7 +103,7 @@
     "@input-group-addon-bg": "@gray-lighter",
     "@input-group-addon-border-color": "@input-border",
     "@cursor-disabled": "not-allowed",
-    "@dropdown-bg": "#FFC4B4",
+    "@dropdown-bg": "#445C7A",
     "@dropdown-border": "rgba(0,0,0,.15)",
     "@dropdown-fallback-border": "#ccc",
     "@dropdown-divider-bg": "#e5e5e5",
@@ -147,7 +147,7 @@
     "@navbar-padding-vertical": "((@navbar-height - @line-height-computed) / 2)",
     "@navbar-collapse-max-height": "340px",
     "@navbar-default-color": "#777",
-    "@navbar-default-bg": "#FFC4B4",
+    "@navbar-default-bg": "#445C7A",
     "@navbar-default-border": "darken(@navbar-default-bg, 6.5%)",
     "@navbar-default-link-color": "#777",
     "@navbar-default-link-hover-color": "#333",
@@ -213,7 +213,7 @@
     "@pager-disabled-color": "@pagination-disabled-color",
     "@jumbotron-padding": "30px",
     "@jumbotron-color": "inherit",
-    "@jumbotron-bg": "#B4FFE8",
+    "@jumbotron-bg": "#0B6E50",
     "@jumbotron-heading-color": "inherit",
     "@jumbotron-font-size": "ceil((@font-size-base * 1.5))",
     "@jumbotron-heading-font-size": "ceil((@font-size-base * 4.5))",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=b29859923b7bea8d607c6bca804d96ab"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=2812b626d28ad0bdd25021c4aa6c6d0b"
 }
