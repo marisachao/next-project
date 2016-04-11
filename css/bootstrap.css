@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=0be1e6e1a026044eeb95d8f28314ae78)
- * Config saved to config.json and https://gist.github.com/0be1e6e1a026044eeb95d8f28314ae78
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=7e8be04a1f9dad546f946afcc425f28a)
+ * Config saved to config.json and https://gist.github.com/7e8be04a1f9dad546f946afcc425f28a
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -1103,12 +1103,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #871013;
+  color: #c0534c;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #430809;
+  color: #8e3732;
   text-decoration: underline;
 }
 a:focus {
@@ -3408,7 +3408,7 @@ fieldset[disabled] .btn-danger.focus {
   background-color: #ffffff;
 }
 .btn-link {
-  color: #871013;
+  color: #c0534c;
   font-weight: normal;
   border-radius: 0;
 }
@@ -3429,7 +3429,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #430809;
+  color: #8e3732;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4013,7 +4013,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #871013;
+  border-color: #c0534c;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4733,7 +4733,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   padding: 6px 12px;
   line-height: 1.42857143;
   text-decoration: none;
-  color: #871013;
+  color: #c0534c;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   margin-left: -1px;
@@ -4754,7 +4754,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > a:focus,
 .pagination > li > span:focus {
   z-index: 2;
-  color: #430809;
+  color: #8e3732;
   background-color: #eeeeee;
   border-color: #dddddd;
 }
@@ -4952,7 +4952,7 @@ a.badge:focus {
 }
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #871013;
+  color: #c0534c;
   background-color: #ffffff;
 }
 .list-group-item > .badge {
@@ -4968,12 +4968,12 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: ##e1e1e1;
+  color: #e1e1e1;
   background-color: #0b6e50;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: ##e1e1e1;
+  color: #e1e1e1;
 }
 .jumbotron p {
   margin-bottom: 15px;
@@ -5027,7 +5027,7 @@ a.badge:focus {
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #871013;
+  border-color: #c0534c;
 }
 .thumbnail .caption {
   padding: 9px;

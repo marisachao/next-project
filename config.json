@@ -13,7 +13,7 @@
     "@brand-danger": "#d9534f",
     "@body-bg": "#AABAD4",
     "@text-color": "#7B302B",
-    "@link-color": "@brand-primary",
+    "@link-color": "lighten(@text-color, 20%)",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "underline",
     "@font-family-sans-serif": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
@@ -212,9 +212,9 @@
     "@pager-active-color": "@pagination-active-color",
     "@pager-disabled-color": "@pagination-disabled-color",
     "@jumbotron-padding": "30px",
-    "@jumbotron-color": "##e1e1e1",
+    "@jumbotron-color": "#e1e1e1",
     "@jumbotron-bg": "#0B6E50",
-    "@jumbotron-heading-color": "##e1e1e1",
+    "@jumbotron-heading-color": "#e1e1e1",
     "@jumbotron-font-size": "ceil((@font-size-base * 1.5))",
     "@jumbotron-heading-font-size": "ceil((@font-size-base * 4.5))",
     "@state-success-text": "#3c763d",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=0be1e6e1a026044eeb95d8f28314ae78"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=7e8be04a1f9dad546f946afcc425f28a"
 }
